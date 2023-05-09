@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Geektasticdad Kasm Registry',
     description: 'The Geektasticdad Kasm Registry',
     icon: '/img/logo.svg',
-    listUrl: 'https://username.github.io/kasm-registry',
+    listUrl: 'https://geektasticdad.github.io/kasm-registry',
     contactUrl: 'https://github.com/geektasticdad/kasm-registry/issues',
   },
   reactStrictMode: true,
