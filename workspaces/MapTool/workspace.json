@@ -1,7 +1,7 @@
 {
   "description": "MapTool Built on Ubuntu Focal",
   "docker_registry": "https://index.docker.io/v1/",
-  "image_src": "https://github.com/Geektasticdad/kasm-icons/blob/4de855b9fc1ca188c444bdc7036a5f0eaac58700/maptool.png",
+  "image_src": "maptool.png",
   "name": "geektasticdad/kasmweb-maptool:1.10.2-apponly_1.2",
   "categories": [
     "Desktop"
