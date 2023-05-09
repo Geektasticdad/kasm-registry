@@ -5,9 +5,8 @@
   "name": "geektasticdad/kasmweb-maptool:1.10.2-apponly_1.2",
   "categories": [
     "Desktop"
-    "Gaming"
   ],
-  "friendly_name": "MapTool",
+  "friendly_name": "MapTool 1.10.2",
   "architecture": [
     "amd64",
     "arm64"
